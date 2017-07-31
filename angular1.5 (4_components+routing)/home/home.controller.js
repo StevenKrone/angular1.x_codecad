@@ -8,5 +8,5 @@ angular.module('exampleapp')
 
     function HomeController() {
         var vm = this;
-        vm.message = 'Hi from home';
+        vm.message = 'Welcome Home!';
     }

@@ -8,5 +8,5 @@ angular.module('exampleapp')
   
   function AboutController() {
     var vm = this;
-    vm.message = 'Hi from about';
+    vm.message = 'This is a message from the AboutController';
   };
